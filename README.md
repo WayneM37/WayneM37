@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WayneM37
+- 👋 Hi, I’m @Wayne 
 
 I have been working as a content writer, editor and manager. 
 Now, I am a trainee at an IT bootcamp, Clarusway. 15 Hours of live lessons, workshops, assignments..
