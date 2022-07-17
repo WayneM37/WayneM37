@@ -2,7 +2,7 @@
 
 I have been working as a content writer, editor and manager. 
 Now, I am a trainee at an IT bootcamp, Clarusway. 15 Hours of live lessons, workshops, assignments..
-I have been learing alot.  Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira...
+I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira...
 
 - 👀 I’m interested in DevOps and AWS
 - 🌱 I’m currently learning Kubernetes and Docker
