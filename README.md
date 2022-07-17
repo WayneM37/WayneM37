@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wayne 
 
 I have been working as a content writer, editor and manager. 
-Now, I am a trainee at an IT bootcamp, Clarusway. 15 Hours of live lessons, workshops, assignments..
+Now, I am a trainee at an IT bootcamp, Clarusway. 360 Hours live sessions, workshops, assignments, projects...
 I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira...
 
 - 👀 I’m interested in DevOps and AWS Cloud
