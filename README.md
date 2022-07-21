@@ -1,5 +1,8 @@
 # 👋 Hi there, I’m Murat N. aka [Wayne] [linkedin] 👋 
 
+## I'm a Content Writer-Editor-Manager and a Traine at Clarusway to become...
+## AWS Cloud Architect & DevOps Engineer!!
+
 I have been working as a content writer, editor and manager. 
 Now, I am a trainee at an IT bootcamp, Clarusway. 360 Hours live sessions, workshops, assignments, projects...
 I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira..
@@ -7,9 +10,6 @@ I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git,
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
 - 💞️ I’m looking to collaborate on DevOps projects
-- 📫 How to reach me ...
-
-## I'm a Content writer-Editor-Manager and DevOps Engineer!!
 
 ### Connect with me:
 
@@ -17,11 +17,11 @@ I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git,
 - 🌱 You can check my Fiver freelancing gigs and start ordering some content for your brand🤣: [Murat N. Fiver][Fiver]!
 - 👯 I have work samples and a portfolio for you: [Murat N. Portfolio][portfolio]!
 - 🥅 You can check my profile on Koinmedya.com: [Murat N. Profile][profile]!  
-- ⚡ I have a link tree that you can find much more about me: [Murat N. Link Tree][linkree]!
+- ⚡ I have a link tree that you can find much more about me: [Murat N. Link Tree][linktree]!
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+:zap: GitHub Stats
 
   <img align="left" alt="WayneM37's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WayneM37&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
