@@ -1,12 +1,12 @@
 # 👋 Hi there, I’m Murat N. aka [Wayne] [linkedin] 👋 
 
 ## I have been working as a WEB3, Blockchain & Crypto related Content Writer-Editor-Manager 
-## Now I am trainee at Clarusway to become...
+## Now I am a trainee at Clarusway to become...
 ## AWS Cloud Architect & DevOps Engineer!!
 
 [Clarusway][clarus] .... 
-🚀504 Hours live sessions, workshops, assignments, projects...💥
-🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira..💥
+-🚀504 Hours live sessions, workshops, assignments, projects...💥
+-🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira..💥
 
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
