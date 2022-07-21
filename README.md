@@ -2,12 +2,15 @@
 
 I have been working as a content writer, editor and manager. 
 Now, I am a trainee at an IT bootcamp, Clarusway. 360 Hours live sessions, workshops, assignments, projects...
-I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira...
+I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira..
 
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me ...
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+
+
 
 <!---
 WayneM37/WayneM37 is a ✨ special ✨ repowtory because its `README.md` (this file) appears on your GitHub profile.
