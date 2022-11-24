@@ -1,21 +1,18 @@
 # 👋 Hi there, I’m Murat N. aka [Wayne] [linkedin] 👋 
 
-## I have been working as a WEB3, Blockchain & Crypto related Content Writer-Editor-Manager 
-## Now I am a trainee at Clarusway to become...
-## AWS Cloud Architect & DevOps Engineer!!
+## Welcome to my Github Repo..
+## I am an IT enthusiast with broad spectrum of interests...
+## AWS Solution Architect & DevOps Engineer!! Content Manager-Technical Writer-Freelancer-Team Player
 
-[Clarusway][clarus] .... 
--🚀504 Hours live sessions, workshops, assignments, projects...💥
--🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Jira..💥
 
 - 👀 I’m interested in DevOps and AWS Cloud
-- 🌱 I’m currently learning Kubernetes and Docker
-- 💞️ I’m looking to collaborate on DevOps projects
+- 🌱 WEb3-Blockchain-Cryptocurrency-Metaverse
+- 💞️ I’m looking to collaborate on AWS-DevOps projects
 
 ### Connect with me:
 
 - 🔭 Check out Linkedin: [Murat N.Linkedin][linkedin]!
-- 🌱 You can check my Fiver freelancing gigs and start ordering some content for your brand🤣: [Murat N. Fiver][Fiver]!
+- 🌱 You can check my Fiver freelancing gigs 🤣: [Murat N. Fiver][Fiver]!
 - 👯 I have work samples and a portfolio for you: [Murat N. Portfolio][portfolio]!
 - 🥅 You can check my profile on Koinmedya.com: [Murat N. Profile][profile]!  
 - ⚡ I have a link tree that you can find much more about me: [Murat N. Link Tree][linktree]!
